@@ -1,0 +1,50 @@
+table{
+    font-size: 20px;
+    background-color: lightblue;
+    font-style: italic;
+    text-align: center;
+    padding: 20px;
+    margin: 10px auto;
+    border-radius: 20px;
+    box-shadow: 0px 0px 10px red;
+}
+.link{
+    font-size: 30px;
+    background-color: aqua;
+    color: brown;
+    text-align: center;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 30px;
+    box-shadow: 0px 0px 10px red;
+    
+}
+.good{
+    font-size: 20px;
+    background-color: brown;
+    color: antiquewhite;
+    text-align: center;
+    box-shadow: 0px 0px 10px red;
+}
+div{
+    border: 5px solid red;
+    width: 800px;
+    height: 500;
+    padding: 20px;
+    margin: auto;
+    background-color:lemonchiffon;
+    box-shadow: 0px 0px 20px yellow;
+    border-radius: 20px;
+}
+.Glowing:hover{
+    background-color:red;
+    padding: 5px;
+    margin: 2px auto;
+    box-shadow: 0px 0px 5px yellow;
+}
+.Glowing:focus{
+    background-color: seagreen;
+}
+.Glowing:active{
+    background-color: aqua;
+}
